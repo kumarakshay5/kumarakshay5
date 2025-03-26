@@ -80,4 +80,4 @@
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s chat: [akshaykumar5000@outlook.com](mailto:akshaykumar5000@outlook.com)
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *"DevOps Professional with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
